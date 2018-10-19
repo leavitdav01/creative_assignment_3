@@ -1,0 +1,18 @@
+#middle {
+    background-color: #BC7AFF;
+    padding: 2em;
+    margin: 10em 20em 7em 20em;
+    
+}
+
+body {
+    background-color: purple;
+}
+
+h2 {
+    font-family: 'Mali', cursive;
+}
+
+input, button, form {
+font-family: 'Charmonman', cursive;
+}
